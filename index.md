@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 
-<!--
 
 Name	: Kirby Vaughn
 Class 	: ISQA 3900
