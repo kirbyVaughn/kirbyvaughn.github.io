@@ -18,7 +18,7 @@ this line would be changed to better describe it and protect the innocent
 <html lang="en">
 
 	<head>
-		<title>Lifes Sweeter Side</title>
+		<title>ISQA 3900</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" type="text/css" href = "css/new.css"/>
@@ -26,7 +26,7 @@ this line would be changed to better describe it and protect the innocent
 	</head>
 		<body>
 			
-				<h1>402-3328686 </h1>
+				<h1>402-332-8686 </h1>
 		<div>
 			<div class="topnav">
   				<a class="active" href="index.html">Home</a>
