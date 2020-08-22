@@ -14,7 +14,7 @@ EMAIL: kvaughn@unomaha.edu
 This is a general testing page / template page were this a real webpage 
 this line would be changed to better describe it and protect the innocent
 
--->  
+
 <html lang="en">
 
 	<head>
@@ -26,7 +26,7 @@ this line would be changed to better describe it and protect the innocent
 	</head>
 		<body>
 			
-				<h1>402-660-2831 </h1>
+				<h1>402-3328686 </h1>
 		<div>
 			<div class="topnav">
   				<a class="active" href="index.html">Home</a>
@@ -42,12 +42,8 @@ this line would be changed to better describe it and protect the innocent
 
 			</div>
 		</div>
-				<h1>Lifes Sweeter Side</h1><br><br>
-				<h2>Welcome to Lifes Sweeter Side</h2>
-
-				<img src="pictures/Logo.png" alt="Lifes Sweeterside Logo" class="center"
-					style = width:570px;
-					height:470px;\>
+				<h1>Learning how to use Github</h1><br><br>
+				<h2>Lessons learned</h2>
 
 				<section class="split left">
 					
@@ -62,9 +58,6 @@ this line would be changed to better describe it and protect the innocent
 				<section class="split right">
   					
 					
-   			 		<img src="pictures/IMG_0473.JPG" alt="Sugar Cookies" class="left"
-					style = width:370px;
-					height:470px;\>
 				
 						<p>
 							Want to learn how to make those really cool decorated sugar cookies that everyone is talking 
