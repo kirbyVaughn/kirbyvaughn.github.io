@@ -1,37 +1,97 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
 
-You can use the [editor on GitHub](https://github.com/kirbyVaughn/kirbyvaughn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!--
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Name	: Kirby Vaughn
+Class 	: ISQA 3900
+Due	: 3-6-2020
 
-### Markdown
+Honor Pledge:  On my honor as a student of the University
+of Nebraska at Omaha, I have neither given nor received
+unauthorized help on this homework assignment.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+NAME: Kirby Vaughn
+EMAIL: kvaughn@unomaha.edu
 
-```markdown
-Syntax highlighted code block
+This is a general testing page / template page were this a real webpage 
+this line would be changed to better describe it and protect the innocent
 
-# Header 1
-## Header 2
-### Header 3
+-->  
+<html lang="en">
 
-- Bulleted
-- List
+	<head>
+		<title>Lifes Sweeter Side</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" type="text/css" href = "css/new.css"/>
 
-1. Numbered
-2. List
+	</head>
+		<body>
+			
+				<h1>402-660-2831 </h1>
+		<div>
+			<div class="topnav">
+  				<a class="active" href="index.html">Home</a>
+  				<a href="baking.html">Lets Get baking</a>
+				<a href="Gallery.html">Gallery</a>
+  				<a href="Shop.html">Sweet Times</a>
+  				<a href="About_Us.html">About_Us</a>
+				<img src="pictures/facebook.png" alt="Facebook" class="right"
+					style = width:50px;height:50px;\>
+				<img src="pictures/twitter.jpg" alt="twitter" class="right"
+					style = width:50px;height:50px;\>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+			</div>
+		</div>
+				<h1>Lifes Sweeter Side</h1><br><br>
+				<h2>Welcome to Lifes Sweeter Side</h2>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+				<img src="pictures/Logo.png" alt="Lifes Sweeterside Logo" class="center"
+					style = width:570px;
+					height:470px;\>
 
-### Jekyll Themes
+				<section class="split left">
+					
+					
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kirbyVaughn/kirbyvaughn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+				</section>
+  				<section class="center">
+					<h1>Learn to bake</h1>
+		</section>
+			
+				<section class="split right">
+  					
+					
+   			 		<img src="pictures/IMG_0473.JPG" alt="Sugar Cookies" class="left"
+					style = width:370px;
+					height:470px;\>
+				
+						<p>
+							Want to learn how to make those really cool decorated sugar cookies that everyone is talking 
+							about or will talk about? Looking for a unique gift for teachers, coaches, 
+							friends, loved ones, party favors, decorations, or anything other occasion? If so,
+ 							this is the place for you! Join my cookie club where I will show you different techniques
+							and ideas to create your own cookie masterpieces.<br><br><p> Never decorated a cookie before?
+						     No problem! I know what it is like to be a beginner and not know where to start so join me
+							as I walk you through from the very beginning steps.</p> 
+						</p><br>
+						<p>
+						Just beginning or wanting to learn how to create and decorate unique sugar
+						cookies that add the extra element to any part or get together?  
+						You can learn techniques that will showcase your talent and creativity.  
+						The sky is the limit with creativity and I can show you how to express it through
+						my love of all things cookie.Not to mention, we can create some pretty cool cupcakes too! 
+						From those favorite pairings of chocolate and peanut butter to the white
+						wedding cake with fluffy white frosting, you can jazz those up too with some pretty 
+						cool decorating techniques!
+					   </p>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+						
+					
+
+				 </section>
+			
+</body>
+</html>
