@@ -4,10 +4,6 @@ Name	: Kirby Vaughn
 Class 	: ISQA 3900
 Due	: 3-6-2020
 
-//Honor Pledge:  On my honor as a student of the University
-//of Nebraska at Omaha, I have neither given nor received
-//unauthorized help on this homework assignment.
-
 NAME: Kirby Vaughn
 EMAIL: kvaughn@unomaha.edu
 
@@ -33,8 +29,6 @@ this line would be changed to better describe it and protect the innocent
 
 				<section class="split left">
 					
-					
-
 
 				</section>
   				<section class="center">
@@ -46,23 +40,16 @@ this line would be changed to better describe it and protect the innocent
 					
 				
 						<p>
-							Want to learn how to make those really cool decorated sugar cookies that everyone is talking 
-							about or will talk about? Looking for a unique gift for teachers, coaches, 
-							friends, loved ones, party favors, decorations, or anything other occasion? If so,
- 							this is the place for you! Join my cookie club where I will show you different techniques
-							and ideas to create your own cookie masterpieces.<br><br><p> Never decorated a cookie before?
-						     No problem! I know what it is like to be a beginner and not know where to start so join me
-							as I walk you through from the very beginning steps.</p> 
+							My name is Kirby Vaughn, and this is the first page for extra credit It is a landing page for
+							my git hub.  It was developed for my class ISQA 4900, and I am looking forward to developing my skills
+							and learning of how to build dynamic html pages.  I am  a senior, and plan on graduating at the end of the
+							semester..</p> 
 						</p><br>
 						<p>
-						Just beginning or wanting to learn how to create and decorate unique sugar
-						cookies that add the extra element to any part or get together?  
-						You can learn techniques that will showcase your talent and creativity.  
-						The sky is the limit with creativity and I can show you how to express it through
-						my love of all things cookie.Not to mention, we can create some pretty cool cupcakes too! 
-						From those favorite pairings of chocolate and peanut butter to the white
-						wedding cake with fluffy white frosting, you can jazz those up too with some pretty 
-						cool decorating techniques!
+						I have spent 12 years in the Army, and have been married for 20 years, this last May, but
+						due to the pandemic, we were not able to celebrate the way I wanted to.  We are blessed 
+						to have four children, one of them is a sophmore this year at Howard University.
+						my wife is enrolled for her Doctorate at Bellevue Univerisity.  I decided that it was time for me to finish my degree.
 					   </p>
 
 						
