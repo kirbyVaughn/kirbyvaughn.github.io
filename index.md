@@ -4,9 +4,9 @@ Name	: Kirby Vaughn
 Class 	: ISQA 3900
 Due	: 3-6-2020
 
-Honor Pledge:  On my honor as a student of the University
-of Nebraska at Omaha, I have neither given nor received
-unauthorized help on this homework assignment.
+//Honor Pledge:  On my honor as a student of the University
+//of Nebraska at Omaha, I have neither given nor received
+//unauthorized help on this homework assignment.
 
 NAME: Kirby Vaughn
 EMAIL: kvaughn@unomaha.edu
@@ -27,21 +27,7 @@ this line would be changed to better describe it and protect the innocent
 		<body>
 			
 				<h1>402-332-8686 </h1>
-		<div>
-			<div class="topnav">
-  				<a class="active" href="index.html">Home</a>
-  				<a href="baking.html">Lets Get baking</a>
-				<a href="Gallery.html">Gallery</a>
-  				<a href="Shop.html">Sweet Times</a>
-  				<a href="About_Us.html">About_Us</a>
-				<img src="pictures/facebook.png" alt="Facebook" class="right"
-					style = width:50px;height:50px;\>
-				<img src="pictures/twitter.jpg" alt="twitter" class="right"
-					style = width:50px;height:50px;\>
-
-
-			</div>
-		</div>
+		
 				<h1>Learning how to use Github</h1><br><br>
 				<h2>Lessons learned</h2>
 
